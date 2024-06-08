@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\triho\OneDrive\Máy tính\JavaPMQLCafe\.metadata\.plugins\org.eclipse.jdt.core
+137829078.index
+858531763.index
+3797709324.index
+2490212883.index
+3863689366.index
+2090942896.index
+1865797976.index
+2423974025.index
+4292160638.index
+1090393000.index
